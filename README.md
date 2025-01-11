@@ -1,6 +1,7 @@
 # SBNL  
-/data/# Edmunds car data in csv format obtained by webcrawler (Since some files are too big, you can download at:https://mega.nz/folder/5koQgKoQ#BT31A8VIn6ALXk70qGTvHg)     
-/code/# Code for calculation  
+/data/# Edmunds car data in CSV format obtained by web crawler (Since some files are too big, you can download at: https://mega.nz/folder/5koQgKoQ#BT31A8VIn6ALXk70qGTvHg)     
+/code/visualization/# python Code for calculation and visualization  
+/code/regression/# STATA Code for regressions  
 /fig/# figures in in the paper  
 
 # Paper  
