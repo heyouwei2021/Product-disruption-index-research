@@ -1,5 +1,5 @@
 # SBNL  
-/data/# Edmunds car data in csv format obtained by webcrawler   
+/data/# Edmunds car data in csv format obtained by webcrawler (Since some files are too big, you can download at:https://mega.nz/folder/5koQgKoQ#BT31A8VIn6ALXk70qGTvHg)     
 /code/# Code for calculation  
 /fig/# figures in in the paper  
 
