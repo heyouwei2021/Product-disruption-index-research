@@ -5,7 +5,7 @@ clear matrix
 *// turn more off
 set more off
 *// load .csv
-import delimited "C:/Users/heyouwei/code/car/20230415/2013_2024_period/tfidf_panel_data_with_d_dummy.csv", clear stringcols(_all)
+import delimited "../../data/2013_2024_period/tfidf_panel_data_with_d_dummy.csv", clear stringcols(_all)
 destring avg_wdis_rate, replace
 destring avg_dis_rate, replace
 destring avg_winh_rate, replace
@@ -81,7 +81,7 @@ eststo tfidflog3
 *// turn more o*ff
 *set more off
 *// load .csv
-import delimited "C:/Users/heyouwei/code/car/20230415/2013_2024_period/tf_panel_data_with_d_dummy.csv", clear stringcols(_all)
+import delimited "../../data/2013_2024_period/tf_panel_data_with_d_dummy.csv", clear stringcols(_all)
 destring avg_wdis_rate, replace
 destring avg_dis_rate, replace
 destring avg_winh_rate, replace
