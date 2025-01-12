@@ -17,3 +17,6 @@ In the ever-evolving landscape of technology, product innovation emerges through
 
 # Citation  
 He, Y., & Lee, J. D. (2024). Small but not least changes: The Art of Creating Disruptive Innovations. arXiv preprint arXiv:2407.14537.
+# Downlaod
+V1
+V2
